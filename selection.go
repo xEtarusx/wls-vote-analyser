@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/manifoldco/promptui"
-	"github.com/xEtarusx/vote-counter/models"
+	"github.com/xEtarusx/vote-analyser/models"
 )
 
 var TextTopTenVotedMaps = "Top 10 voted Layers (minimum 20 total Votes)"

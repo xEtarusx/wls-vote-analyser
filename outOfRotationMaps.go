@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/xEtarusx/vote-counter/models"
+	"github.com/xEtarusx/vote-analyser/models"
 )
 
 func OutOfRotationMaps(layerData []models.LayerData) {

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/gocolly/colly"
-	"github.com/xEtarusx/vote-counter/models"
+	"github.com/xEtarusx/vote-analyser/models"
 	"strconv"
 	"time"
 )

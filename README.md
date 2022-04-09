@@ -1,4 +1,4 @@
-# wls-vote-counter
+# We Love Squad Vote Analyser
 
 This application gives a simple vote analysis for We Love Squad server statistics pulled from https://mapvote.welovesquad.de/.
 
@@ -6,7 +6,7 @@ This application gives a simple vote analysis for We Love Squad server statistic
 
 # Download the latest release
 
-You can download the latest release for windows from [releases](https://github.com/xEtarusx/wls-vote-counter/releases) 
+You can download the latest release for windows from [releases](https://github.com/xEtarusx/wls-vote-analyser/releases) 
 
 # Build it yourself
 
